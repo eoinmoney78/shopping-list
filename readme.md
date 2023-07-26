@@ -1,3 +1,5 @@
+https://eoinmoney78.github.io/shopping-list/
+
 # Shopping List
 
 Vanilla JavaScript shopping list app from my Modern JS From The Beginning course.
